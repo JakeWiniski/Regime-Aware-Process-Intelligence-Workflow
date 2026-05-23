@@ -1,0 +1,9 @@
+{
+  "feature_table": "feature_table.csv",
+  "full_feature_table": "feature_table_full.csv",
+  "training_features": "training_features.csv",
+  "training_target": "training_target.csv",
+  "target_column": "target_metric_primary",
+  "run_id_column": "run_id",
+  "date_column": "run_start_date"
+}

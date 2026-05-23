@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+
+title: "RAPI: Regime-Aware Process Intelligence"
+message: "If you use this workflow, software, or associated materials in research or derivative work, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Winiski"
+    given-names: "Jake"
+
+abstract: >
+  RAPI (Regime-Aware Process Intelligence) is an open workflow for
+  learning in nonstationary process systems. The workflow combines
+  rolling local models, global modeling perspectives, dimensionality
+  reduction, anomaly detection, and interpretability methods to help
+  identify evolving relationships and persistent structure in changing
+  systems. Included datasets are synthetic and intended solely for
+  demonstration of methodology.
+
+keywords:
+  - process intelligence
+  - regime-aware learning
+  - nonstationary systems
+  - statistical learning
+  - machine learning
+  - manufacturing analytics
+  - process development
+  - adaptive learning
+  - experimental design
+  - anomaly detection
+
+license: "Apache-2.0"
+
+repository-code: "https://github.com/JakeWiniski/Regime-Aware-Process-Intelligence-Workflow"
+
+url: "https://github.com/JakeWiniski/Regime-Aware-Process-Intelligence-Workflow"
+
+version: "1.0.0"
+
+date-released: 2026-05-23
+
+doi: "DOI_PENDING"
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Winiski"
+      given-names: "Jake"
+  title: "RAPI: Regime-Aware Process Intelligence"
+  version: "1.0.0"
+  year: 2026
+  doi: "DOI_PENDING"

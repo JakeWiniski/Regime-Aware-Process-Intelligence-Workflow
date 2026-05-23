@@ -34,35 +34,6 @@ The analytical strategy is therefore split into two views:
 
 Together, the notebooks support practical reasoning in unstable systems: they distinguish **local regime-dependent behavior** from **global cross-regime drivers**.
 
----
-
-## Repository Contents
-
-```text
-.
-├── README.md
-├── requirements.txt
-├── generate_synthetic_rapi_data.py
-├── Rolling_Surrogate_Regime_Analysis.ipynb
-├── Global_Model.ipynb
-├── pipeline_inputs/
-│   ├── SYNTHETIC_DATASET.md
-│   ├── run_metadata.csv
-│   ├── run_treatment_metrics.csv
-│   ├── external_run_metrics.csv
-│   ├── synthetic_ground_truth.csv
-│   ├── time_series/
-│   └── supplemental_time_series/
-└── pipeline_outputs/
-    ├── features/
-    ├── processed_time_series/
-    └── global_model_outputs/
-```
-
-The repository includes a synthetic dataset generated from `generate_synthetic_rapi_data.py`. The synthetic data are anonymized and use generic `feature_*` names, but they are structured to demonstrate the same workflow expected in a real process-intelligence setting.
-
----
-
 ## Synthetic Demonstration Dataset
 
 The synthetic dataset contains:
@@ -393,3 +364,13 @@ This project is shared as an open methodological example and portfolio artifact.
 This project is released under the Apache License 2.0.
 
 You are free to use, modify, and distribute this work in accordance with the license terms. Attribution is appreciated. Please cite the repository and associated DOI when using this work in research, publications, or derivative projects.
+
+## Citation
+
+If you use this workflow, methodology, code, or derivative work in research, publications, presentations, or other projects, please cite this repository.
+
+**APA**
+
+Winiski, J. (2026). *RAPI: Regime-Aware Process Intelligence* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20358131
+
+

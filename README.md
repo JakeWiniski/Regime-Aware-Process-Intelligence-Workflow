@@ -1,4 +1,5 @@
 # RAPI: Regime-Aware Process Intelligence - Learning Under Drift in Non-Stationary Process Systems
+[![DOI](https://zenodo.org/badge/1244655605.svg)](https://doi.org/10.5281/zenodo.20358130)
 
 This repository demonstrates a **Regime-Aware Process Intelligence (RAPI)** workflow for analyzing complex production systems whose behavior is nonstationary, only partially observed, and still evolving while operating at scale.
 

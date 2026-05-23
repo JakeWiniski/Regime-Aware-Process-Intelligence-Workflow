@@ -40,7 +40,7 @@ version: "1.0.0"
 
 date-released: 2026-05-23
 
-doi: "DOI_PENDING"
+doi: 10.5281/zenodo.20358131
 
 preferred-citation:
   type: software

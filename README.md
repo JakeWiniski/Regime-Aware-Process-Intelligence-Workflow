@@ -1,4 +1,4 @@
-# Regime-Aware Process Intelligence
+# RAPI: Regime-Aware Process Intelligence - Learning Under Drift in Non-Stationary Process Systems
 
 This repository demonstrates a **Regime-Aware Process Intelligence (RAPI)** workflow for analyzing complex production systems whose behavior is nonstationary, only partially observed, and still evolving while operating at scale.
 
@@ -375,3 +375,15 @@ This workflow is designed for human-in-the-loop process intelligence. It does no
 The synthetic dataset is not intended to represent any real facility or proprietary process. It is designed to demonstrate the workflow mechanics and analytical logic in a reproducible, anonymized form.
 
 The methods here are intentionally practical. They are meant to help reason about messy production systems where perfect causal identification is not available, but where structured evidence can still improve situational awareness and learning velocity.
+
+## Disclaimer
+
+This repository is intended solely as an educational and methodological demonstration of a regime-aware analytical workflow. All datasets included in this project are synthetic and were generated specifically for illustrative purposes. The data do not originate from any real manufacturing process, biological system, company operation, customer program, or experimental dataset.
+
+The workflows, analyses, and examples presented here are designed to demonstrate general principles of statistical learning, process interpretation, and adaptive analytical strategies under nonstationary conditions. Any resemblance between the synthetic examples and real-world systems is coincidental.
+
+This repository does not disclose proprietary processes, confidential information, trade secrets, internal methodologies, or unpublished data from any company, organization, employer, collaborator, or client. The concepts presented represent generalized educational examples and publicly shareable methodological approaches only.
+
+## Intended Use
+
+This project is shared as an open methodological example and portfolio artifact. It is intended to support learning, discussion, adaptation, and extension by others interested in process development, manufacturing analytics, experimental learning, and nonstationary systems.

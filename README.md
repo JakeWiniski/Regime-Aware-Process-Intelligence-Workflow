@@ -387,3 +387,9 @@ This repository does not disclose proprietary processes, confidential informatio
 ## Intended Use
 
 This project is shared as an open methodological example and portfolio artifact. It is intended to support learning, discussion, adaptation, and extension by others interested in process development, manufacturing analytics, experimental learning, and nonstationary systems.
+
+## License
+
+This project is released under the Apache License 2.0.
+
+You are free to use, modify, and distribute this work in accordance with the license terms. Attribution is appreciated. Please cite the repository and associated DOI when using this work in research, publications, or derivative projects.

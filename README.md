@@ -374,4 +374,8 @@ If you use this workflow, methodology, code, or derivative work in research, pub
 
 Winiski, J. (2026). *RAPI: Regime-Aware Process Intelligence* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20358131
 
+## AI Use Disclosure
+
+This project was developed with assistance from generative AI and coding-agent tools. AI was used for coding, debugging, and development support; analytical design, validation, interpretation, and final decisions were performed by the author.
+
 
